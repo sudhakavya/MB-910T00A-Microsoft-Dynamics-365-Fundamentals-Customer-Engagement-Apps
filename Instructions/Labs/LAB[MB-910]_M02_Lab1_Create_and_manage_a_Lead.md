@@ -104,6 +104,8 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 ![](images/Image-12.png)
 
-1. Next you will qualify the lead record. This will create a related Opportunity record and move to the next stage of the Lead to Opportunity sales process. On the **Command Bar**, select the **Qualify** button. 
+1. Next you will qualify the lead record. This will create a related Opportunity record[1] and move to the next stage[2] of the Lead to Opportunity sales process. On the **Command Bar**, select the **Qualify** button. 
+
+![](images/Image-18.png)
 
 14. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record. 
