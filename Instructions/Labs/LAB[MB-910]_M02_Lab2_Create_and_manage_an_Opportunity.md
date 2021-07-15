@@ -26,7 +26,11 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 2. Using the navigation on the left side of the screen, select **Opportunities**. 
 
-3. On the My Open Opportunities view, select the **New** button to create a new opportunity.
+![](images/Image-13.png)
+
+3. On the **My Open Opportunities** view, select the **New** button to create a new opportunity.
+
+![](images/Image-14.png)
 
 4. Complete the opportunity information as follows:
 
@@ -42,6 +46,8 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 	- **Purchase Process:** Individual
 
+![](images/Image-15.png)
+
 5. On the **New Opportunity Header** at the top of the record, select the down arrow next to the owner field. 
 
 6. Complete as follows:
@@ -49,8 +55,12 @@ In this exercise, you will become familiar with how to access the different Dyna
 	- **Est. Close Date:** Two days from today
 
 	- **Est Revenue:** 50,000
+	
+![](images/Image-16.png)
 
 7. On the **Command Bar** at the top, select the **Save and Close** button. 
+
+![](images/Image-17.png)
 
 8. On the **My Open Opportunities** view, locate and open the **Looking for new equipment** opportunity that was created when you qualified the lead in the previous exercise. 
 
