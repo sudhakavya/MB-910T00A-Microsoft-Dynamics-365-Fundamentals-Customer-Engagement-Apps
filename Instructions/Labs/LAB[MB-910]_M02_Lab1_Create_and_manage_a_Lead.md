@@ -22,7 +22,7 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 1. Open the **[Dynamics 365 Sales Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/)** link. 
 
->Note: If Required, Below Can Find Dynamics 365 Sale click on **Try for Free** then Enter the **work email address** as provided in the Environment Details to start your **free trial** and Click on **Start Your free trial**, Then Select your **country** and Enter the **Phone Number**,  Click on **Next**. Else **Skip**.
+>Note: If Required, You will Find Dynamics 365 Sale below, and click on **Try for Free** then Enter the **work email address** as provided in the Environment Details to start your **free trial** and Click on **Start Your free trial**, Then Select your **country** and Enter the **Phone Number**,  Click on **Next**. Else **Skip**.
 
    ![](images/Mb910Lab.png)
    
@@ -30,7 +30,7 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
  ![](images/Lab-01.png)
  
-1. In Dynamics 365 Apps, you will find **Dynamics 365 Sales Hub**.
+1. In Dynamics 365 Apps, you will find **Dynamics 365 Sales Hub**. Click on **Dynamics 365 Sales Hub**.
 
 ![](images/Lab-02.png)
    
@@ -64,7 +64,11 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 	- **ZIP/Postal Code:** 98001 
 
+ ![](images/Image-05.png)  
+
 1. Select the **Save** button on the Command Bar to save the new the Lead and leave it open. 
+
+ ![](images/Image-04.png)  
 
 1. Notice the **Lead to Opportunity** Business Process Flow at the top of the record. Click the **Qualify Stage** to select it. Complete the stage as follows:
 
@@ -76,18 +80,29 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 	- **Identify Decision Maker:** Completed
 
+![](images/Image-06.png) 
 
 1. Go to the **Record Timeline** in the middle of the screen and click the **Plus Sign Icon** to add a new activity. 
 
+![](images/Image-07.png) 
+
 1. From the menu that appears, select **Phone Call**.
+
+![](images/Image-08.png)
 
 1. On the **Quick Create Phone Call** screen, set the **Subject** field to **Initial Phone Call** and leave the rest of the information as is. 
 
 1. Click the **Save and Close** button.
 
-1. Notice the **Initial Phone Call** activity is now displayed on the **Record Timeline**. Hover over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed. 
+![](images/Image-09.png)
+
+1. Notice the **Initial Phone Call** activity is now displayed on the **Record Timeline**. Over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed.
+ 
+![](images/Image-11.png) 
 
 1. On the **Close Phone Call** window, select the **Close** button 
+
+![](images/Image-12.png)
 
 1. Next you will qualify the lead record. This will create a related Opportunity record and move to the next stage of the Lead to Opportunity sales process. On the **Command Bar**, select the **Qualify** button. 
 
