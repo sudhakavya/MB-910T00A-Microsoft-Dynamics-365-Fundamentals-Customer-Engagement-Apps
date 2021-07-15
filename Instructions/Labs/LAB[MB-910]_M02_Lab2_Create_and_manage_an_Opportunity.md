@@ -64,6 +64,8 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 8. On the **My Open Opportunities** view, locate and open the **Looking for new equipment** opportunity that was created when you qualified the lead in the previous exercise. 
 
+![](images/Image-19.png)
+
 9. Notice the record is already in the **Develop** phase of the opportunity of the Lead to Opportunity process. 
 
 10. On the **Looking for new equipment opportunity header** at the top of the record, select the down arrow next to the owner field. 
@@ -73,6 +75,8 @@ In this exercise, you will become familiar with how to access the different Dyna
 	- **Est. Close Date:** Tomorrow
 
 	- **Est Revenue:** 70,000
+
+![](images/Image-21.png)
 
 12. In the Stakeholders sub-grid, notice the Suzanne Burke is already defined as a stakeholder. 
 
