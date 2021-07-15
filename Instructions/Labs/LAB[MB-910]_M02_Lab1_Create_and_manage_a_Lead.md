@@ -22,7 +22,7 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 1. Open the **[Dynamics 365 Sales Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/)** link. 
 
->Note: If Required, You will Find Dynamics 365 Sale below, and click on **Try for Free** then Enter the **work email address** as provided in the Environment Details to start your **free trial** and Click on **Start Your free trial**, Then Select your **country** and Enter the **Phone Number**,  Click on **Next**. Else **Skip**.
+>Note: If Required, You will find Dynamics 365 Sale below, and click on **Try for Free** then Enter the **work email address** as provided in the Environment Details to start your **free trial** and Click on **Start Your free trial**, Then Select your **country** and Enter the **Phone Number**,  Click on **Next**. Else **Skip**.
 
    ![](images/Mb910Lab.png)
    
