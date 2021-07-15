@@ -20,11 +20,17 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 ## Instructions
 
-1. If is not open already, open the **Dynamics 365 Sales Hub** application. 
+1. Open the **[Dynamics 365 Sales Hub](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/)** link. 
+
+>Note: If Required, Below Can Find Dynamics 365 Sale click on **Try for Free** then Enter the **work email address** as provided in the Environment Details to start your **free trial** and Click on **Start Your free trial**, Then Select your **country** and Enter the **Phone Number**,  Click on **Next**. Else **Skip**.
+
+   ![](images/Mb910Lab.png)
 
 2. Using the navigation on the left side of the screen, select **Leads**. 
 
 3. From the **My Open Leads** view, Select the **New** button on the Command bar.
+
+   ![](images/Ms900-01.png)
 
 4. Complete your new lead record as follows:
 
@@ -41,6 +47,8 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 	- **Email:** Suzanne@contososample.com
 
 	- **Company:** Contoso - Washington
+	
+   ![](images/Ms910-03.png)
 
 	- **Street 1:** 1989 Smith Ave
 
