@@ -20,19 +20,27 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 ## Instructions
 
-1. Open the **[Dynamics 365 Sales Hub](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/)** link. 
+1. Open the **[Dynamics 365 Sales Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/)** link. 
 
 >Note: If Required, Below Can Find Dynamics 365 Sale click on **Try for Free** then Enter the **work email address** as provided in the Environment Details to start your **free trial** and Click on **Start Your free trial**, Then Select your **country** and Enter the **Phone Number**,  Click on **Next**. Else **Skip**.
 
    ![](images/Mb910Lab.png)
+   
+1. Click on **Sales trial** on the top Left.
 
-2. Using the navigation on the left side of the screen, select **Leads**. 
+ ![](images/Lab-01.png)
+ 
+1. In Dynamics 365 Apps, you will find **Dynamics 365 Sales Hub**.
 
-3. From the **My Open Leads** view, Select the **New** button on the Command bar.
+![](images/Lab-02.png)
+   
+1. Using the navigation on the left side of the screen, select **Leads**. 
 
-   ![](images/Ms900-01.png)
+1. From the **My Open Leads** view, Select the **New** button on the Command bar.
 
-4. Complete your new lead record as follows:
+ ![](images/Image-03.png)  
+
+1. Complete your new lead record as follows:
 
 	- **Topic:** Looking for New Equipment – Your Initials
 
@@ -47,8 +55,6 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 	- **Email:** Suzanne@contososample.com
 
 	- **Company:** Contoso - Washington
-	
-   ![](images/Ms910-03.png)
 
 	- **Street 1:** 1989 Smith Ave
 
@@ -58,9 +64,9 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 	- **ZIP/Postal Code:** 98001 
 
-5. Select the **Save** button on the Command Bar to save the new the Lead and leave it open.
+1. Select the **Save** button on the Command Bar to save the new the Lead and leave it open. 
 
-6. Notice the **Lead to Opportunity** Business Process Flow at the top of the record. Click the **Qualify Stage** to select it. Complete the stage as follows:
+1. Notice the **Lead to Opportunity** Business Process Flow at the top of the record. Click the **Qualify Stage** to select it. Complete the stage as follows:
 
 	- **Purchase Timeframe:** This Quarter
 
@@ -70,18 +76,19 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 	- **Identify Decision Maker:** Completed
 
-7. Go to the **Record Timeline** in the middle of the screen and click the **Plus Sign Icon** to add a new activity. 
 
-8. From the menu that appears, select **Phone Call**.
+1. Go to the **Record Timeline** in the middle of the screen and click the **Plus Sign Icon** to add a new activity. 
 
-9. On the **Quick Create Phone Call** screen, set the **Subject** field to **Initial Phone Call** and leave the rest of the information as is. 
+1. From the menu that appears, select **Phone Call**.
 
-10. Click the **Save and Close** button.
+1. On the **Quick Create Phone Call** screen, set the **Subject** field to **Initial Phone Call** and leave the rest of the information as is. 
 
-11. Notice the **Initial Phone Call** activity is now displayed on the **Record Timeline**. Hover over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed. 
+1. Click the **Save and Close** button.
 
-12. On the **Close Phone Call** window, select the **Close** button 
+1. Notice the **Initial Phone Call** activity is now displayed on the **Record Timeline**. Hover over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed. 
 
-13. Next you will qualify the lead record. This will create a related Opportunity record and move to the next stage of the Lead to Opportunity sales process. On the **Command Bar**, select the **Qualify** button. 
+1. On the **Close Phone Call** window, select the **Close** button 
+
+1. Next you will qualify the lead record. This will create a related Opportunity record and move to the next stage of the Lead to Opportunity sales process. On the **Command Bar**, select the **Qualify** button. 
 
 14. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record. 
