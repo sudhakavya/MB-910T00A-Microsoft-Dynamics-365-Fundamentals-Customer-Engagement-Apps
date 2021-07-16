@@ -114,4 +114,4 @@ Account: Northwind Tradersand move to the next stage[2] of the Lead to Opportuni
 
    ![](images/Image-18.png)
 
-14. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record. 
+1. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record. 
