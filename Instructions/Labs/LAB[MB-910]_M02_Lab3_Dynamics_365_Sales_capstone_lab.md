@@ -318,7 +318,7 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 31. On the Quotes sub-grid, select the **New Quote** button.
 
-![](images/Image-69.png) 
+![](images/Image-70.png) 
 
  
 
@@ -331,19 +331,33 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 Now that you have a related quote, you will prepare the quote to present it to a customer. Under normal circumstances, we would likely add products to the quote record before it is delivered to a customer. Because we are working in shared environments, we are going to skip the adding of quote lines and walk through the delivery of the quote. 
 
 
-1. You now need to select a Price List to attach to the Opportunity.  Under **Price List** on the left pane, select the Search icon and then select **Office 365 USA (sample)** from the options. On the **Command Bar**, select the **Activate Quote** button to activate the Quote. 
+1. You now need to select a Price List to attach to the Opportunity.  Under **Price List** on the left panel.
 
-2. Now that the quote has been created, let's update the opportunity record to reflect the new data. On the Quote record, select the **Looking for Security Equipment** – **“Your name”** opportunity in the **Opportunity** field under the **Sales Information** section. The opportunity record should open on your screen. 
+   ![](images/Image-71.png)
+
+1. click on **+ New Price List** then Enter **Office 365 USA (sample)** and Click on **Save**.
+. 
+![](images/Image-72.png)
+
+5. On the **Command Bar**, select the **Activate Quote** button to activate the Quote. 
+
+![](images/Image-73.png)
+
+2. Now that the quote has been created, let's update the opportunity record to reflect the new data. On the Quote record, select the **Looking for Security Equipment** – **“Your name”** opportunity in the **Opportunity** field under the **Sales Information** section. The opportunity record should open on your screen.
 
 3. On the Opportunity record, select the **Propose** Stage. 
 
-4. Mark **Develop Proposal**, **Complete Internal Review**, and **Present Proposal** as **Completed**, and Select the **Next Stage** button to advance to the **Close** stage. 
+4. Mark **Develop Proposal**, **Complete Internal Review**, and **Present Proposal** as **Completed**, and Select the **Next Stage** button to advance to the **Close** stage.
+
+![](images/Image-74.png)
 
 5. On the **Close** stage, mark the **Complete Final Proposal**, **Present Final Proposal**, **Send Thank You**, and **File De-brief** steps as **Completed**. 
 
 6. Set **Confirm Decision Date** to **Todays date**. 
 
 7. Select the **Finish** button. 
+
+![](images/Image-75.png)
 
 8. Select the **X** on the Close stage window to close the window. 
 
@@ -352,6 +366,8 @@ Now that you have a related quote, you will prepare the quote to present it to a
 10. Open the **Looking for Security Equipment – Your Initials** Quote. 
 
 11. On the **Command Bar**, select the **Create Order** button.
+
+![](images/Image-76.png)
 
 12. On the Create Order Window, complete it as follows:
 
@@ -367,6 +383,8 @@ Now that you have a related quote, you will prepare the quote to present it to a
 
 13. Select the **OK** button 
 
+![](images/Image-77.png)
+
 The system creates a new sales order related to the item. In addition, it will close both the quote record, and the related opportunity record. Once everything has been completed the Order will be opened on your screen. Leave the order open. 
 
 ###  
@@ -379,6 +397,8 @@ Now that you have create a sales order, we will close the order and generate an 
 
 1. On the **Command Bar**, select the **Fulfill Order** button. 
 
+![](images/Image-78.png)
+
 2. On the Fulfill Order screen, complete is at follows:
 
 	- **Status Reason:** Complete
@@ -387,6 +407,16 @@ Now that you have create a sales order, we will close the order and generate an 
 
 3. Select the **Fulfill** button. 
 
+![](images/Image-79.png)
+
 4. On the **Command Bar** of the order, select the **Create Invoice** button. 
 
-5. On the **Command Bar**, select the **Invoice Paid** button. Select Ok.
+![](images/Image-80.png)
+
+5. On the **Command Bar**, select the **Invoice Paid** button. 
+
+![](images/Image-81.png)
+
+1. Select **Ok**.
+
+![](images/Image-82.png)
