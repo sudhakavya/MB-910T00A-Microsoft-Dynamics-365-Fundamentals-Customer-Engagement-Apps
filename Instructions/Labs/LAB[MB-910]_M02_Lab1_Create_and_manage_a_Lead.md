@@ -104,7 +104,13 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 ![](images/Image-12.png)
 
-1. Next you will qualify the lead record. This will create a related Opportunity record[1] and move to the next stage[2] of the Lead to Opportunity sales process. On the **Command Bar**, select the **Qualify** button. 
+1. Next you will qualify the lead record. This will create a related Opportunity record[1] Complete the opportunity information as follows:
+
+Topic: Wants to upgrade their existing equipment – Your Initials
+
+Contact: Jay Klein
+
+Account: Northwind Tradersand move to the next stage[2] of the Lead to Opportunity sales process. On the **Command Bar**, select the **Qualify** button. 
 
 ![](images/Image-18.png)
 
