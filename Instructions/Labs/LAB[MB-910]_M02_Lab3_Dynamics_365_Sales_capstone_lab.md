@@ -189,19 +189,33 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 2. Select the drop-down arrow next to the **My Open Opportunities** view, from the menu that appears, select **All Opportunities**.
 
+ ![](images/Image-47.png)
+
 3. On the Command Bar, select Show Chart. Notice that the **Top Customers** chart displays based on the Opportunity table. 
 
+ ![](images/Image-48.png)
+
 4. Select the drop-down arrow next to **Top Customers**, from the menu that appears, select **Sales Pipeline**.
+
+ ![](images/Image-49.png)
 
 5. Select the Qualify portion of the Funnel. Notice that the list of Opportunities changes to display on the opportunities that in the qualify stage. 
 
 6. Select anywhere in the white space of the chart to display all open opportunities again. 
 
+![](images/Image-50.png)
+
 7. Select the drop-down arrow next to the **Open Opportunities** view, from the menu that appears, select **My Open Opportunities**. The **Looking for Security Equipment – Your Initials** will likely be the only item that appears, and the chart should reflect this. 
+
+![](images/Image-51.png)
 
 8. On the **Command Bar**, select the **Hide Chart** button. 
 
+![](images/Image-52.png)
+
 9. Open the **Looking for Security Equipment – Your Initials** that was created when you qualified the lead earlier. Notice the record is already in the **Develop** phase since it was created from a previously qualified Lead.  
+
+![](images/Image-70.png)
 
 10. On the **Looking for Security Equipment – Your Initials** opportunity header at the top of the record, select the down arrow next to the owner field. 
 
@@ -210,12 +224,18 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 	- **Est. Close Date:** Tomorrow
 
 	- **Est Revenue:** 12,500.00
+	
+![](images/Image-56.png)
 
 12. Go to the **Record Timeline** in the middle of the screen and select the **Plus Sign Icon** to add a new activity. 
 
-13. From the menu that appears, select **Appointment**.
+![](images/Image-53.png)
 
-14. On the **Quick Create: Appointment** screen, complete as follows:
+13. From the menu that appears, select **Meeting**.
+
+![](images/Image-54.png)
+
+14. On the **Quick Create: Meeting** screen, complete as follows:
 
 	- **Subject:** Quick Meeting – “Your Initials”
 
@@ -225,39 +245,80 @@ Now that we have successfully qualified the lead as an opportunity, it is time t
 
 	- **End Time:** Tomorrow @ 10:30 AM
 
-15. On the Command bar, select **Save &amp; Close**
+![](images/Image-55.png)
+
+15. On the Command bar, select **Save & Close**
 
 16. On the Lead to Opportunity business process flow, select the **Develop** Stage. Notice that you need to Identify Stakeholders and Competitors.
 
+![](images/Image-70.png)
+
 17. Select the **X** on the stage window to close it so you can continue working. 
 
+1. On **Summary** Section below the Lead to Opportunity Business Process Flow, In the contact field click on **+ New Contact**.
+
+![](images/Image-57.png)
+
+1. Complete as follows:
+               
+   - **First Name:** Piper 
+   - **Last Name:** initals
+   
+![](images/Image-58.png)   
+
+
+1. select the **Save and Close** button.
+
+1. Notice the Suzanne Burke is added in the contact field.
+
+![](images/Image-59.png) 
+   
 18. In the **Stakeholders** sub-grid, notice **Piper** is already defined as a stakeholder. 
 
-19. On the Sales Team sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**. 
+![](images/Image-60.png) 
+
+19. On the Sales Team sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **New Connection**.
+
+![](images/Image-61.png) 
 
 20. In the **Search** field, enter the text **System** and select the **System Administrator** record. Once completed, select the **Add** button. System Administrator should now appear on the sale team. If not, select the **Refresh** button on the command bar. 
 
 21. On the Competitors sub-grid, select the **Vertical Ellipsis**. From the menu that appears select **Add Existing Competitor**. 
 
+![](images/Image-62.png) 
+
 22. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
+
+![](images/Image-63.png) 
+![](images/Image-64.png) 
 
 23. In the Quick Create: **Competitor** screen, set the **Name** field to **Coho Security – “Your Initials”**.
 
+![](images/Image-65.png) 
+
 24. Select the **Save and Close** button.
 
-25. Ensure that the Coho Security record you just created is selected, select the **Add** button. 
+25. Ensure that the Coho Security record you just created is selected, select the **Add** button.
+
+![](images/Image-66.png) 
 
 26. Select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
+
+![](images/Image-67.png) 
 
 27. Select the **Next Stage** button to advance to the **Propose** stage.
 
 28. On the **Propose** stage, mark **Identify Sales Team** as **Completed**.
+
+![](images/Image-68.png) 
 
 29. Select the **X** on the Propose stage to close the stage window. 
 
 30. On the opportunity record, select the **Quotes** tab. 
 
 31. On the Quotes sub-grid, select the **New Quote** button.
+
+![](images/Image-69.png) 
 
  
 
