@@ -80,58 +80,58 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 1. On **Summary** Section below the Lead to Opportunity Business Process Flow, In the contact field click on **+ New Contact**.
 
-   [](images/Image-22.png)
+   ![](images/Image-22.png)
 
 1. Complete as follows:
                
    - **First Name:** Suzanne
    - **Last Name:** Burke
 
-   [](images/Image-23.png)
+   ![](images/Image-23.png)
 
 1. select the **Save and Close** button.
 
 1. Notice the Suzanne Burke is added in the contact field.
 
-   [](images/Image-24.png)
+   ![](images/Image-24.png)
 
 1. In the Stakeholders sub-grid, notice the Suzanne Burke is already defined as a stakeholder. 
 
-   [](images/Image-25.png)
+   ![](images/Image-25.png)
 
 1. On the Sales Team sub-grid,select **+ New Connection**. 
 
-   [](images/Image-26.png)
+   ![](images/Image-26.png)
 
 1. Search for and select your user record. Once completed, select the **Add** button.
 
 1. On the Competitors sub-grid, select **Add Existing Competitor**. 
 
-   [](images/Image-27.png)
+   ![](images/Image-27.png)
 
 1. On the **Lookup Record** screen, select **New Record**, and then select **Competitors**.
 
-   [](images/Image-28.png)
+   ![](images/Image-28.png)
 
 1. In the **Quick Create Competitor** screen, set the **Name** field to **Coho Technologies**.
 
-   [](images/Image-29.png)
+   ![](images/Image-29.png)
 
 1. Select the **Save and Close** button.
 
 1. **Coho Technologies** should be selected in the lookup record window. Select the **Add** button to finishing adding the competitor. 
 
-   [](images/Image-30.png)
+   ![](images/Image-30.png)
 
 1. Select to select the **Develop** stage on the **Lead to Opportunity** business process flow set both the **Identify Stakeholders** and **Identify Competitors** steps to **Completed**. 
 
-   [](images/Image-31.png)
+   ![](images/Image-31.png)
 
 1. Select the **Next Stage** button to advance to the **Propose** stage.
 
 1. On the **Propose** stage, mark all four steps as **Completed**, and select the **Next Stage** button to advance to the **Close** stage. 
 
-   [](images/Image-32.png)
+   ![](images/Image-32.png)
 
 1. On the **Close** stage, mark the **Complete Final Proposal**, **Present Final Proposal**, **Send Thank You**, and **File De-brief** steps as **Completed**. 
 
@@ -139,12 +139,12 @@ In this exercise, you will become familiar with how to access the different Dyna
 
 1. Click the **Finish** button. 
 
-   [](images/Image-33.png)
+   ![](images/Image-33.png)
 
 1. Now that you have completed the business process, you need to close the opportunity. On the **Command Bar** of the opportunity, select the **Close as Won** button. 
 
-   [](images/Image-34.png)
+   ![](images/Image-34.png)
 
 1. On the **Close Opportunity** screen, select the **OK** button to finish closing the opportunity record. 
 
-   [](images/Image-35.png)
+   ![](images/Image-35.png)
