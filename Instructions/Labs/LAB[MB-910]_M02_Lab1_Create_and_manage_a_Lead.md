@@ -98,7 +98,7 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 1. Notice the **Initial Phone Call** activity is now displayed on the **Record Timeline**. Over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed.
  
-   ![](images/Image-11.png) 
+   ![](images/Lab-03.png) 
 
 1. On the **Close Phone Call** window, select the **Close** button 
 
