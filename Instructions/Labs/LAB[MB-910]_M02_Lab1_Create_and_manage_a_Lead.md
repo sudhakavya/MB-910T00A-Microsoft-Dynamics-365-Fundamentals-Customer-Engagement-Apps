@@ -22,7 +22,7 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 1. Open the **[Dynamics 365 Sales Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/)** link. 
 
->Note: If Required, You will find Dynamics 365 Sale below, and click on **Try for Free** then Enter the **work email address** as provided in the Environment Details to start your **free trial** and Click on **Start Your free trial**, Then Select your **country** and Enter the **Phone Number**,  Click on **Next**. Else **Skip**.
+    >Note: If Required, You will find Dynamics 365 Sale below, and click on **Try for Free** then Enter the **work email address** as provided in the Environment Details to start your **free trial** and Click on **Start Your free trial**, Then Select your **country** and Enter the **Phone Number**,  Click on **Next**. Else **Skip**.
 
    ![](images/Mb910Lab.png)
  
@@ -106,7 +106,6 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 1.  Next you will qualify the lead record. This will create a related Opportunity record[1] and move to the next stage[2] of the Lead to Opportunity sales process. On the **Command Bar**, select the **Qualify** button.
    
-
-   ![](images/Image-18.png)
+      ![](images/Image-18.png)
 
 1. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record. 
