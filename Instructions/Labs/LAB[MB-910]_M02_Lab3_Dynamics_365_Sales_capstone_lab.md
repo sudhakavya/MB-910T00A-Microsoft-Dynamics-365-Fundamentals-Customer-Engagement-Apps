@@ -78,7 +78,10 @@ Upon completion of the lab, you will have completed the following:
 
 3. From the list of applications that appears, select **Sales Hub.**
 
+![](images/Lab-02.png)
+
 4. Using the navigation on the left side of the screen, select **Leads**. 
+
 
 5. To view all the current sales leads in the system, select the down arrow next to **My Open leads**, from the menu that appears select **Active Leads**. 
 
