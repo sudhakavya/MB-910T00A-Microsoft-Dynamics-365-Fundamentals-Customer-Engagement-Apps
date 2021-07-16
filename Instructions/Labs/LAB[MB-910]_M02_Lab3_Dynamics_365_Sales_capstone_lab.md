@@ -80,14 +80,15 @@ Upon completion of the lab, you will have completed the following:
 
 ![](images/Lab-02.png)
 
-4. Using the navigation on the left side of the screen, select **Leads**. 
-
+4. Using the navigation on the left side of the screen, select **Leads**.
 
 5. To view all the current sales leads in the system, select the down arrow next to **My Open leads**, from the menu that appears select **Active Leads**. 
 
 6. To navigate back to your list of leads, select the down arrow next to Active Leads, and from the menu that appears, select **My Open Leads**. 
 
 7. Next, we will create a new lead for Piper Smith, from the **My Open Leads** view, Select the **New** button on the Command bar.
+
+   ![](images/Image-03.png)
 
 8. Complete your new lead record as follows:
 
@@ -100,9 +101,12 @@ Upon completion of the lab, you will have completed the following:
 	- **Mobile Phone:** 888 555-1762
 
 	- **Email:** piper@sample.com
-
+	
+ ![](images/Image-36.png)	
 
 9. Select the **Save** button on the Command Bar to save the new the Lead and leave it open.
+
+ ![](images/Image-37.png)
 
 10. Notice the **Lead to Opportunity** Business Process Flow at the top of the record. Select the **Qualify Stage** to select it. Complete the stage as follows:
 
@@ -116,9 +120,13 @@ Upon completion of the lab, you will have completed the following:
 
 11. Select the **X** on the stage window to close the window. 
 
+ ![](images/Image-38.png)
+
 12. Go to the record **Timeline** in the middle of the screen and select the **Plus Sign Icon** to add a new activity. 
 
 13. From the menu that appears, select **Phone Call**.
+
+ ![](images/Image-39.png) 
 
 14. On Quick Create Phone Call Screen, complete the phone call as follows:
 
@@ -132,11 +140,19 @@ Upon completion of the lab, you will have completed the following:
 
 15. Select the **Save and Close** button.
 
-16. Notice the **Looking for home security equipment** activity is now displayed on the record **Timeline**. Hover over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed. 
+![](images/Image-40.png)
+
+16. Notice the **Looking for home security equipment** activity is now displayed on the record **Timeline**. 
+
+ ![](images/Image-41.png)
+
+1. Over the activity and select the close activity **Check Mark Icon** to mark the phone call as completed. 
+
+  ![](images/Image-42.png)
 
 17. On the **Close Phone Call** window, verify the state is set to **Completed**, and select the **Close** button.
 
- 
+  ![](images/Image-43.png)
 
 **IMPORTANT:** Do not close the lead record. Leave it open as we will use it in the next task. 
 
@@ -148,15 +164,20 @@ After visiting with Piper, you identify that there is enough interest on her end
 
 1. On the **Command Bar**, select the **Qualify** button. 
 
-2. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record. 
+ ![](images/Image-44.png)
+
+2. After the system qualifies the lead, a new Opportunity record will be created, and the business process will advance to the **Develop** stage. Select the **Qualify** stage to view the original lead record.
+ 
+ ![](images/Image-45.png)
 
 3. Select the **Qualify** stage to return to the lead.
 
-4. Select the **Save &amp; Close** button to close the Lead record that was created. 
+ ![](images/Image-44.png)
 
- 
+4. Select the **Save & Close** button to close the Lead record that was created. 
 
- 
+ ![](images/Image-46.png)
+
 
 ## Exercise 2: Manage a sales opportunity in Dynamics 365 Sales
 
