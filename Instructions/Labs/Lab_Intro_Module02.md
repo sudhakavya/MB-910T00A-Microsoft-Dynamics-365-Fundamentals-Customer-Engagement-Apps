@@ -5,6 +5,7 @@
    ![](images/image.png)
 
 ## Instructions
+### Sign up for Dynamics 365 Sales Free trial
 
 1. Open the **[Dynamics 365 Sales Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/)** link. 
 
