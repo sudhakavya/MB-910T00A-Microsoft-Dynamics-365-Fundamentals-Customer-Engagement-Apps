@@ -72,9 +72,9 @@ Upon completion of the lab, you will have completed the following:
 
 ### Task 1: Create a new Lead
 
-1. If necessary, open an InPrivate browser and navigate to [Https://home.Dynamics.com](https://home.dynamics.com/) 
+1. If necessary, open an InPrivate browser and navigate to [Https://dynamics.microsoft.com](https://dynamics.microsoft.com/en-us/) 
 
-1. When prompted, log in with the user credentials provided to you by the instructor. 
+1. When prompted, log in with the user credentials provided in the Environment Details tab. 
 
 1. From the list of applications that appears, select **Sales Hub.**
 
