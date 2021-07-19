@@ -20,20 +20,8 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 ## Instructions
 
-1. Open the **[Dynamics 365 Sales Trial](https://dynamics.microsoft.com/en-us/dynamics-365-free-trial/)** link. 
+1. If it not open already, open the Dynamics 365 Sales Hub application.
 
-    >Note: If Required, You will find Dynamics 365 Sale below, and click on **Try for Free** then Enter the **work email address** as provided in the Environment Details to start your **free trial** and Click on **Start Your free trial**, Then Select your **country** and Enter the **Phone Number**,  Click on **Next**. Else **Skip**.
-
-   ![](images/Mb910Lab.png)
- 
-1. Click on **Sales trial** on the top Left.
-
-   ![](images/Lab-01.png)
- 
-1. In Dynamics 365 Apps, you will find **Dynamics 365 Sales Hub**. Click on **Dynamics 365 Sales Hub**.
-
-   ![](images/Lab-02.png)
-   
 1. Using the navigation on the left side of the screen, select **Leads**. 
 
 1. From the **My Open Leads** view, Select the **New** button on the Command bar.
