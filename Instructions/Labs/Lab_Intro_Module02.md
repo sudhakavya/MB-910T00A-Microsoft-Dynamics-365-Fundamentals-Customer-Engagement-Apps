@@ -20,4 +20,4 @@
 
    ![](images/Lab-02.png)
 
-1. On the Next Page,Learn about the Fundamentals of Dynamics 365 Sales.
+1. On the Next Page, Learn about the Fundamentals of Dynamics 365 Sales.
