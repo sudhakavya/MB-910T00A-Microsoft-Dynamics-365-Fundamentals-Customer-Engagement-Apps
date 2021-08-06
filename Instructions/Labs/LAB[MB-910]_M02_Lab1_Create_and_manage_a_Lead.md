@@ -14,6 +14,7 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 2. Create a new environment by clicking on **+ New**
 
+    ![](images/new/1-1.png)
     
 3. On the Window that opens in the right, Enter first a unique name for the environment like **sales-deploymentID** and select **Sandbox** as type and Set **Yes** for create a database for this environment and then click **Next**.
 
