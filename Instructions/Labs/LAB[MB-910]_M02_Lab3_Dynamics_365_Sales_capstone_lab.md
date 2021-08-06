@@ -1,11 +1,4 @@
----
-lab:
-    title: 'Lab 2.3: Dynamics 365 Sales capstone lab'
-    module: 'Module 2: Learn the Fundamentals of Dynamics 365 Sales'
----
-
-Module 2: Learn the Fundamentals of Dynamics 365 Sales
-========================
+## Module 2: Learn the Fundamentals of Dynamics 365 Sales
 
 ## Practice Lab 2.3 - Dynamics 365 Sales capstone lab
 
@@ -71,10 +64,6 @@ Upon completion of the lab, you will have completed the following:
 
 
 ### Task 1: Create a new Lead
-
-1. If necessary, open an InPrivate browser and navigate to [Https://dynamics.microsoft.com](https://dynamics.microsoft.com/en-us/) 
-
-1. When prompted, log in with the user credentials provided in the Environment Details tab. 
 
 1. From the list of applications that appears, select **Sales Hub.**
 
