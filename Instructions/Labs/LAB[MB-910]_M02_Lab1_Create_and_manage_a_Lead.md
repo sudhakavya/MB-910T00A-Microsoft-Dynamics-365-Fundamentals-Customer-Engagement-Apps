@@ -6,10 +6,40 @@
 
 During this exercise, you will be capturing a sales lead for Suzanne Burke. She recently reached out to you and is interested in some of your organization’s products and services. Not only will you be capturing the lead in the system, but you will be using the tools available in Dynamics 365 Sales to work the lead through the qualification process.
 
+  - **Estimated Time**: 15 minutes
 
 ## Lab Setup
 
-  - **Estimated Time**: 15 minutes
+1. Once logged into https://admin.powerplatform.microsoft.com/ using the credentials given in lab environment details tab.
+
+2. Create a new environment by clicking on **+ New**
+
+    
+3. On the Window that opens in the right, Enter first a unique name for the environment like **sales-deploymentID** and select **Sandbox** as type and Set **Yes** for create a database for this environment and then click **Next**.
+
+    ![](images/new/1.png) 
+    
+4. Scroll down and select **Enable Dynamics 365 apps** to **Yes** and inautomatically deploy these apps , select **Sales Enterprise**.
+
+    ![](images/new/2.png)
+
+5. Just ensure the settings as in the image below and select **Save**.
+
+    ![](images/new/3.png)
+
+6. A field will appear under environemnts with name sales and it will be in preparing state and once the environment is ready, select the environment and find and click the URL to open the Sales Hub application.
+
+    ![](images/new/4.png)
+    
+    ![](images/new/5.png)
+    
+    ![](images/new/6.png)
+ 
+7. The apps section will appear and from the list select **Sales Hub**.
+
+    ![](../images/module3/setup/7.png)
+    
+8. We will be now in the Sales hub and let it be open to perform the remaining exercises.
 
 ## Instructions
 
