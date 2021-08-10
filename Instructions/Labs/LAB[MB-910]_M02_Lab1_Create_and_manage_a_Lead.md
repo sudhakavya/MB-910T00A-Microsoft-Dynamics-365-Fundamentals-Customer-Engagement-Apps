@@ -10,7 +10,7 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 ## Lab Setup
 
-1. Once logged into https://admin.powerplatform.microsoft.com/ using the credentials given in lab environment details tab.
+1. Open the browser in your virtual machine and navigate and login to https://admin.powerplatform.microsoft.com/ using the credentials given in lab environment details tab.
 
     ![](images/intro-1.png)
 
