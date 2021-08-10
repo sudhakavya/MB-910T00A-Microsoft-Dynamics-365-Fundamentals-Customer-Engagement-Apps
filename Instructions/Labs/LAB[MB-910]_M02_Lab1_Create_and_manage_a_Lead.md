@@ -12,6 +12,8 @@ During this exercise, you will be capturing a sales lead for Suzanne Burke. She 
 
 1. Once logged into https://admin.powerplatform.microsoft.com/ using the credentials given in lab environment details tab.
 
+    ![](images/intro-1.png)
+
 2. Create a new environment by clicking on **+ New**
 
     ![](images/new/1-1.png)
